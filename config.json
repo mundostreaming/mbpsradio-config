@@ -1,6 +1,6 @@
 {
   "radio_name": "MBP'S RADIO",
-  "stream_url": "https://audio1stream.com/8038/stream",
+  "stream_url": "https://stream.zeno.fm/4yg3php7kfhvv",
   "store_urls": {
     "android": "https://play.google.com/store/apps/details?id=com.tuapp",
     "ios": "https://apps.apple.com/app/id123456789"
@@ -9,6 +9,6 @@
     "website": "https://mbpsradio.godaddysites.com/",
     "instagram": "https://www.instagram.com/pierre_bazile/",
     "whatsapp": "https://wa.me/15614246157",
-    "facebook": "https://web.facebook.com/pierrelouissaint.bazile?_rdc=1&_rdr"
+    "facebook": "null"
   }
 }
